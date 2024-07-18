@@ -27,3 +27,6 @@ build/
 
 # Misc
 .DS_Store
+
+# Generated response files
+responses/

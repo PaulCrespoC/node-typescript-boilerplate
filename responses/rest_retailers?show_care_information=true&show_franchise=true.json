@@ -1,0 +1,130 @@
+{
+  "retailers_type": [
+    {
+      "id": 1,
+      "retailer_type": "SUPERMERCADO",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/76a3c423-42b8-4dbd-8750-06656ef44d95.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/08fe210b-3486-4e63-95db-faa57bceb03c.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/03173e3f-5d45-4138-8f5c-aeb8b8d09a6d.jpg"
+    },
+    {
+      "id": 44,
+      "retailer_type": "EXPRESS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/87eb7a14-1cc4-472e-8bac-df19d02d3830.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/fd7b4ab6-3f1e-4e23-9c53-78df0873c5f2.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/f1f26256-919c-4761-b516-a0e7b01cf8df.jpg"
+    },
+    {
+      "id": 52,
+      "retailer_type": "PICKUP",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/8d49cc36-695c-480d-86dd-75cffa8630f0.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/9a363763-b8ab-4f14-a715-85230f029452.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/da6a9bea-6c88-4faa-b8fa-b93cf04b6732.jpg"
+    },
+    {
+      "id": 3,
+      "retailer_type": "PETSHOP",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/43ad0317-d3d0-4a85-b17c-609265d0376b.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/da659453-0723-4e8a-add3-59ab6c38f2b5.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/5cc4d57c-4680-4bc9-a142-903e248444dc.jpg"
+    },
+    {
+      "id": 42,
+      "retailer_type": "DELI",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/f8505d9e-882c-4c9c-ac43-d5476eb8d086.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/7f65d120-9e20-4953-89c3-779f429b0fe3.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/214ce548-2307-4aa6-8aff-6ee9db548cf8.jpg"
+    },
+    {
+      "id": 45,
+      "retailer_type": "TECNOLOGÍA",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/fda7a78e-e9e7-4eee-8de9-e3c731240786.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/acc3bc1b-3bbc-4c9a-82d9-f64d55c8f350.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/f25fb951-8593-4908-ae2a-33b40e6eb4b7.jpg"
+    },
+    {
+      "id": 48,
+      "retailer_type": "CARNES Y MARISCOS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/833fc1c2-5184-4e9f-aa2c-2f3470cb8907.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/195970ec-d693-4184-a2f2-5ed6407b476d.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/b27b16db-e7b5-47a8-9bd2-c8c4d40533ac.jpg"
+    },
+    {
+      "id": 5,
+      "retailer_type": "BELLEZA",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/b360df26-ea0d-4e22-b721-4493e3fe2636.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/d163e413-d154-4575-a0da-6ace4d57293e.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/f1595148-eb34-4018-a6a9-c311b014ade9.jpg"
+    },
+    {
+      "id": 7,
+      "retailer_type": "FARMACIAS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/aad1c8fb-716b-4632-b709-39b9e8f9d144.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/f364ab99-ff6f-495a-b7f2-6b71c15f4b4b.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/0ac05797-b4b6-4fbb-8de3-3ef438b13c8a.jpg"
+    },
+    {
+      "id": 43,
+      "retailer_type": "ROPA Y ACCESORIOS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/5b466f7d-3d80-4dd9-864a-923f1512d5e8.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/5c9167a0-399f-4314-9805-017ff728c91c.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/f20e367b-2eea-4292-a318-e5b559d45e84.jpg"
+    },
+    {
+      "id": 46,
+      "retailer_type": "HOGAR",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/724d3657-053d-4d26-833e-f63440109f7d.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/3c77f8c6-d535-403d-a4ae-7149a524585c.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/414d8017-ce1b-429f-a428-b087efdcc7e7.jpg"
+    },
+    {
+      "id": 50,
+      "retailer_type": "JUGUETES",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/b8a45815-7cc8-4bb6-9b6c-249f07663ebc.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/40cfbe33-770a-40dc-9fa7-4c085d468d8c.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/ee166eaa-715a-4450-9be4-0eedf50e8ccf.jpg"
+    },
+    {
+      "id": 6,
+      "retailer_type": "VARIEDADES",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/57a83f19-c920-4428-93c7-35f2fbcbbb52.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/d274880f-ae06-4419-b2fb-fd71fe44f353.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/eff15bd3-1f36-4f84-9a3b-8eda48f9d46d.jpg"
+    },
+    {
+      "id": 2,
+      "retailer_type": "PAPELERÍA",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/f2265339-70e8-4aed-a87e-16b1f392544f.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/2c932b1e-141e-4a4b-8536-1ac628db1184.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/a364f6da-e962-4db3-a52f-5bbed15c421f.jpg"
+    },
+    {
+      "id": 4,
+      "retailer_type": "FUNDACIONES",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/c256ccce-961d-4e75-9ffe-566aba705689.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/eabf6729-6bfd-482a-af15-485c5d291dd8.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/e4cbf93b-8f29-4a71-a457-542da51e7873.png"
+    },
+    {
+      "id": 49,
+      "retailer_type": "PAN Y POSTRES",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/89dbf14f-cb00-4465-95ee-04bb076560e4.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/16b903bf-266d-4807-9fb5-eb036dec1c45.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/33ef58c7-950c-4504-8a34-427fed5ec03c.jpg"
+    },
+    {
+      "id": 51,
+      "retailer_type": "DEPORTES Y SUPLEMENTOS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/4cfe2700-15d2-45cc-82fa-450c3664985f.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/db832857-509e-4520-9a0a-6612ba4f42c6.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/1553d1f0-4d27-40ca-af1a-1b330d5bf3f6.jpg"
+    },
+    {
+      "id": 8,
+      "retailer_type": "BEBÉS",
+      "active_icon": "https://statics.tipti.market/retailer_type_icon/d9daeeee-384d-4b11-99d5-73eb4c68daec.png",
+      "inactive_icon": "https://statics.tipti.market/retailer_type_icon/8f0abdca-bfc7-4ae0-8585-adbfa3850117.png",
+      "header_image": "https://statics.tipti.market/retailer_type_images/795dce09-6655-468b-9fba-e75f0a0b547e.png"
+    }
+  ]
+}

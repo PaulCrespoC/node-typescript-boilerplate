@@ -1,0 +1,241 @@
+{
+  "item": {
+    "id": 8509654,
+    "sku": "0101186300051",
+    "available": true,
+    "retailer": {
+      "id": 1863,
+      "name": "EcoEssentials By Tipti Scala",
+      "primary_color": "#1F3929",
+      "secondary_color": "#FFFFFF",
+      "icon": "https://statics.tipti.market/retailers-ec/1e87555e-89f0-40a9-a6e9-7c16e6b02bfa.jpg"
+    },
+    "price": "8.08",
+    "product": {
+      "id": 20752,
+      "ean": "16000277069",
+      "name": "Barra de Granola con Nuez Salada Y Almendras Dulces Nature Valley",
+      "quantity": "1.00",
+      "tax": [
+        {
+          "rate": "15.00",
+          "name": "IVA 15%",
+          "description": ""
+        },
+        {
+          "rate": "0.00",
+          "name": "ITBMS 0%",
+          "description": ""
+        }
+      ],
+      "unit": "CAJA",
+      "cover": [
+        {
+          "original": "https://statics.tipti.market/product-media/05791dcf-0571-4a9f-a365-008ed602da24.jpg",
+          "medium": "https://statics.tipti.market/product-media/05791dcf-0571-4a9f-a365-008ed602da24.jpg?tr=n-medium",
+          "small": "https://statics.tipti.market/product-media/05791dcf-0571-4a9f-a365-008ed602da24.jpg?tr=n-small"
+        }
+      ],
+      "description": "Almendras crujientes y llenas de energía, combinadas con granola y sumergidas en una deliciosa capa de crema de almendras para un snack dulce y cremoso",
+      "bulk": false,
+      "nutrition_colors": [],
+      "category": [
+        {
+          "id": 2217,
+          "name": "Healthy Snacks",
+          "icon": "https://statics.tipti.market/categories-ec/6800d552-0014-426a-8642-7b3610eb80bb.jpg",
+          "translate_information": {
+            "EN": "Healthy Snacks",
+            "ES": "Healthy Snacks"
+          },
+          "request_subcategories": false
+        }
+      ],
+      "subcategory": [
+        {
+          "id": 6010,
+          "name": "Barras y Cereales",
+          "icon": null
+        }
+      ],
+      "unit_stock": false,
+      "colors": [
+        ""
+      ],
+      "deep_link": "https://tipti.page.link/SB7E",
+      "media": [
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/05791dcf-0571-4a9f-a365-008ed602da24.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        },
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/c3342c34-0bec-403f-8391-3941f9580d29.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        },
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/75471c72-d3f6-4e5b-a498-f50d9c103cc1.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        },
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/711d7d01-b407-4e3a-b673-c90c6d78eb44.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        },
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/e170553c-5ae8-4167-9afc-26cbb11b99e3.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        },
+        {
+          "product": 20752,
+          "resource": "https://statics.tipti.market/product-media/daef3165-f11f-443f-b320-a7f4866c6650.jpg",
+          "is_cover": true,
+          "alt_text": ""
+        }
+      ],
+      "group_id": null,
+      "attributes": null,
+      "characteristic": "con Nuez Salada Y Almendras Dulces",
+      "identifiers": [
+        {
+          "ES": "Importados",
+          "EN": "Imported"
+        }
+      ],
+      "presentation": "",
+      "ecommerce_size": null,
+      "features": [
+        {
+          "order": 1,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Barra De Granola"
+        },
+        {
+          "order": 1,
+          "typeCode": 20,
+          "typeName": "ECOMMERCE CARACTERISTICA PRINCIPAL",
+          "description": "Nuez Salada Y Almendras Dulces"
+        },
+        {
+          "order": 1,
+          "typeCode": 33,
+          "typeName": "ECOMMERCE DIVISION",
+          "description": "ALACENA"
+        },
+        {
+          "order": 1,
+          "typeCode": 22,
+          "typeName": "ECOMMERCE PRESENTACION",
+          "description": "210 G"
+        },
+        {
+          "order": 1,
+          "typeCode": 23,
+          "typeName": "ECOMMERCE CANTIDAD",
+          "description": "210"
+        },
+        {
+          "order": 1,
+          "typeCode": 19,
+          "typeName": "ECOMMERCE NOMBRE SIMPLE",
+          "description": "Barra De Granola"
+        },
+        {
+          "order": 1,
+          "typeCode": 17,
+          "typeName": "ECOMMERCE CATEGORIA",
+          "description": "BARRAS Y CEREALES"
+        },
+        {
+          "order": 1,
+          "typeCode": 12,
+          "typeName": "ECOMMERCE NOMBRE",
+          "description": "Barra De Granola Nuez Salada Y Almendras Dulces NATURE VALLEY 210 G"
+        },
+        {
+          "order": 1,
+          "typeCode": 21,
+          "typeName": "ECOMMERCE MARCA",
+          "description": "NATURE VALLEY"
+        },
+        {
+          "order": 1,
+          "typeCode": 9,
+          "typeName": "ECOMMERCE DESCRIPCION",
+          "description": "Almendras crujientes y llenas de energía, combinadas con granola y sumergidas en una deliciosa capa de crema de almendras para un snack dulce y cremoso"
+        },
+        {
+          "order": 1,
+          "typeCode": 18,
+          "typeName": "ECOMMERCE SUBCATEGORIA",
+          "description": "Barras"
+        },
+        {
+          "order": 1,
+          "typeCode": 24,
+          "typeName": "ECOMMERCE UNIDAD MEDIDA",
+          "description": "G"
+        },
+        {
+          "order": 2,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Nuez Salada Y Almendras Dulces"
+        },
+        {
+          "order": 3,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Nature Valley"
+        },
+        {
+          "order": 4,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Barras"
+        },
+        {
+          "order": 5,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Barras Y Cereales"
+        },
+        {
+          "order": 6,
+          "typeCode": 25,
+          "typeName": "ECOMMERCE TAG",
+          "description": "Alacena"
+        }
+      ],
+      "ecommerce_age": null,
+      "dimension_height": null,
+      "dimension_width": null,
+      "dimension_length": null,
+      "armed": null,
+      "dimension_weight": null
+    },
+    "description": null,
+    "only_discount_item": false,
+    "margin": "0.00",
+    "high_demand": false,
+    "hours_to_delivery": 0,
+    "unique_delivery": false,
+    "cost_of_delivery": "0.00",
+    "carry": null,
+    "pay": null,
+    "price_with_discount": "8.08",
+    "discount_five_by_five": false,
+    "discount_card": null,
+    "stock_available": 16
+  },
+  "rate": "0.0000"
+}
